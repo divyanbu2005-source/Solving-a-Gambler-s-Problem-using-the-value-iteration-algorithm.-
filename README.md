@@ -27,7 +27,7 @@ To implement the Value Iteration Algorithm for solving the Gambler’s Problem i
 
 6. Display the optimal value function and policy.
 
----
+
 
 ## Program
 
